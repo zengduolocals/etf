@@ -1,0 +1,17 @@
+credentials:
+  usernames:
+    admin:
+      email: admin@hengyuan.com
+      name: 系统管理员
+      password: $2b$12$EixZaYVK1fsbw1ZfbX3OXePaWxn96p36WQoeG6Lruj3vjPGga31lW
+    guest:
+      email: guest@hengyuan.com
+      name: 访客用户
+      password: $2b$12$LxMhM0XKdT8a4bQ6k8Vz4u8fZJQ6dGtK3vK9bT2wR1vL7nJpV3b2W
+cookie:
+  expiry_days: 30
+  key: hengyuan_auth_key
+  name: hengyuan_auth
+preauthorized:
+  emails:
+    - zengduo@jdvcap.com
